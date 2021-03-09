@@ -1,1 +1,1 @@
-# forestFires
+# Machine Learning on Forest Fires Dataset
